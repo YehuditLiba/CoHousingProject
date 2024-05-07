@@ -1,0 +1,84 @@
+H:\CoHousing-staz project\CoHousing\DAL\bin\Debug\net7.0\DAL.deps.json
+H:\CoHousing-staz project\CoHousing\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+H:\CoHousing-staz project\CoHousing\DAL\bin\Debug\net7.0\DAL.dll
+H:\CoHousing-staz project\CoHousing\DAL\bin\Debug\net7.0\DAL.pdb
+H:\CoHousing-staz project\CoHousing\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+H:\CoHousing-staz project\CoHousing\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\CoHousing-staz project\CoHousing\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+H:\CoHousing-staz project\CoHousing\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+H:\CoHousing-staz project\CoHousing\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+H:\CoHousing-staz project\CoHousing\DAL\obj\Debug\net7.0\DAL.dll
+H:\CoHousing-staz project\CoHousing\DAL\obj\Debug\net7.0\refint\DAL.dll
+H:\CoHousing-staz project\CoHousing\DAL\obj\Debug\net7.0\DAL.pdb
+H:\CoHousing-staz project\CoHousing\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+H:\CoHousing-staz project\CoHousing\DAL\obj\Debug\net7.0\ref\DAL.dll
+H:\הפרויקט המעודכן לפני כל הבלגן!!\CoHousing\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+H:\הפרויקט המעודכן לפני כל הבלגן!!\CoHousing\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\הפרויקט המעודכן לפני כל הבלגן!!\CoHousing\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+H:\הפרויקט המעודכן לפני כל הבלגן!!\CoHousing\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+H:\הפרויקט המעודכן לפני כל הבלגן!!\CoHousing\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+H:\הפרויקט המעודכן לפני כל הבלגן!!\CoHousing\DAL\obj\Debug\net7.0\DAL.dll
+H:\הפרויקט המעודכן לפני כל הבלגן!!\CoHousing\DAL\obj\Debug\net7.0\refint\DAL.dll
+H:\הפרויקט המעודכן לפני כל הבלגן!!\CoHousing\DAL\obj\Debug\net7.0\DAL.pdb
+H:\הפרויקט המעודכן לפני כל הבלגן!!\CoHousing\DAL\bin\Debug\net7.0\DAL.deps.json
+H:\הפרויקט המעודכן לפני כל הבלגן!!\CoHousing\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+H:\הפרויקט המעודכן לפני כל הבלגן!!\CoHousing\DAL\bin\Debug\net7.0\DAL.dll
+H:\הפרויקט המעודכן לפני כל הבלגן!!\CoHousing\DAL\bin\Debug\net7.0\DAL.pdb
+H:\הפרויקט המעודכן לפני כל הבלגן!!\CoHousing\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+H:\הפרויקט המעודכן לפני כל הבלגן!!\CoHousing\DAL\obj\Debug\net7.0\ref\DAL.dll
+H:\מה שעשינו אצל יהודית לפני שינויים\CoHousing\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+H:\מה שעשינו אצל יהודית לפני שינויים\CoHousing\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\מה שעשינו אצל יהודית לפני שינויים\CoHousing\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+H:\מה שעשינו אצל יהודית לפני שינויים\CoHousing\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+H:\מה שעשינו אצל יהודית לפני שינויים\CoHousing\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+H:\מה שעשינו אצל יהודית לפני שינויים\CoHousing\DAL\obj\Debug\net7.0\DAL.dll
+H:\מה שעשינו אצל יהודית לפני שינויים\CoHousing\DAL\obj\Debug\net7.0\refint\DAL.dll
+H:\מה שעשינו אצל יהודית לפני שינויים\CoHousing\DAL\obj\Debug\net7.0\DAL.pdb
+H:\מה שעשינו אצל יהודית לפני שינויים\CoHousing\DAL\bin\Debug\net7.0\DAL.deps.json
+H:\מה שעשינו אצל יהודית לפני שינויים\CoHousing\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+H:\מה שעשינו אצל יהודית לפני שינויים\CoHousing\DAL\bin\Debug\net7.0\DAL.dll
+H:\מה שעשינו אצל יהודית לפני שינויים\CoHousing\DAL\bin\Debug\net7.0\DAL.pdb
+H:\מה שעשינו אצל יהודית לפני שינויים\CoHousing\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+H:\מה שעשינו אצל יהודית לפני שינויים\CoHousing\DAL\obj\Debug\net7.0\ref\DAL.dll
+H:\הפרויקט המעודכןןןןןןן נכון ליום שני בערב\CoHousing\DAL\bin\Debug\net7.0\DAL.deps.json
+H:\הפרויקט המעודכןןןןןןן נכון ליום שני בערב\CoHousing\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+H:\הפרויקט המעודכןןןןןןן נכון ליום שני בערב\CoHousing\DAL\bin\Debug\net7.0\DAL.dll
+H:\הפרויקט המעודכןןןןןןן נכון ליום שני בערב\CoHousing\DAL\bin\Debug\net7.0\DAL.pdb
+H:\הפרויקט המעודכןןןןןןן נכון ליום שני בערב\CoHousing\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+H:\הפרויקט המעודכןןןןןןן נכון ליום שני בערב\CoHousing\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\הפרויקט המעודכןןןןןןן נכון ליום שני בערב\CoHousing\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+H:\הפרויקט המעודכןןןןןןן נכון ליום שני בערב\CoHousing\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+H:\הפרויקט המעודכןןןןןןן נכון ליום שני בערב\CoHousing\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+H:\הפרויקט המעודכןןןןןןן נכון ליום שני בערב\CoHousing\DAL\obj\Debug\net7.0\DAL.dll
+H:\הפרויקט המעודכןןןןןןן נכון ליום שני בערב\CoHousing\DAL\obj\Debug\net7.0\refint\DAL.dll
+H:\הפרויקט המעודכןןןןןןן נכון ליום שני בערב\CoHousing\DAL\obj\Debug\net7.0\DAL.pdb
+H:\הפרויקט המעודכןןןןןןן נכון ליום שני בערב\CoHousing\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+H:\הפרויקט המעודכןןןןןןן נכון ליום שני בערב\CoHousing\DAL\obj\Debug\net7.0\ref\DAL.dll
+H:\פרויקט נכון ליום ראשון בצהריים\CoHousing\DAL\bin\Debug\net7.0\DAL.deps.json
+H:\פרויקט נכון ליום ראשון בצהריים\CoHousing\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+H:\פרויקט נכון ליום ראשון בצהריים\CoHousing\DAL\bin\Debug\net7.0\DAL.dll
+H:\פרויקט נכון ליום ראשון בצהריים\CoHousing\DAL\bin\Debug\net7.0\DAL.pdb
+H:\פרויקט נכון ליום ראשון בצהריים\CoHousing\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+H:\פרויקט נכון ליום ראשון בצהריים\CoHousing\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקט נכון ליום ראשון בצהריים\CoHousing\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+H:\פרויקט נכון ליום ראשון בצהריים\CoHousing\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+H:\פרויקט נכון ליום ראשון בצהריים\CoHousing\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+H:\פרויקט נכון ליום ראשון בצהריים\CoHousing\DAL\obj\Debug\net7.0\DAL.dll
+H:\פרויקט נכון ליום ראשון בצהריים\CoHousing\DAL\obj\Debug\net7.0\refint\DAL.dll
+H:\פרויקט נכון ליום ראשון בצהריים\CoHousing\DAL\obj\Debug\net7.0\DAL.pdb
+H:\פרויקט נכון ליום ראשון בצהריים\CoHousing\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+H:\פרויקט נכון ליום ראשון בצהריים\CoHousing\DAL\obj\Debug\net7.0\ref\DAL.dll
+H:\היום יום שישי!\CoHousing\DAL\bin\Debug\net7.0\DAL.deps.json
+H:\היום יום שישי!\CoHousing\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+H:\היום יום שישי!\CoHousing\DAL\bin\Debug\net7.0\DAL.dll
+H:\היום יום שישי!\CoHousing\DAL\bin\Debug\net7.0\DAL.pdb
+H:\היום יום שישי!\CoHousing\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+H:\היום יום שישי!\CoHousing\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\היום יום שישי!\CoHousing\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+H:\היום יום שישי!\CoHousing\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+H:\היום יום שישי!\CoHousing\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+H:\היום יום שישי!\CoHousing\DAL\obj\Debug\net7.0\DAL.dll
+H:\היום יום שישי!\CoHousing\DAL\obj\Debug\net7.0\refint\DAL.dll
+H:\היום יום שישי!\CoHousing\DAL\obj\Debug\net7.0\DAL.pdb
+H:\היום יום שישי!\CoHousing\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+H:\היום יום שישי!\CoHousing\DAL\obj\Debug\net7.0\ref\DAL.dll

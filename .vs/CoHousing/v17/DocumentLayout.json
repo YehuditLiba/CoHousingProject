@@ -1,0 +1,614 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A65F859-EF76-4F46-8D04-9BA76A594B3A}|CoHousing\\WebApi.csproj|c:\\users\\the user\\desktop\\cohousingproject-main\\cohousingproject-main\\cohousing\\cohousing\\controllers\\tenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A65F859-EF76-4F46-8D04-9BA76A594B3A}|CoHousing\\WebApi.csproj|solutionrelative:cohousing\\controllers\\tenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\bl\\globalusingbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|solutionrelative:bl\\globalusingbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8BA129-EAB9-4CC5-BDDF-B92A7A770554}|DAL\\DAL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\dal\\globalusingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8BA129-EAB9-4CC5-BDDF-B92A7A770554}|DAL\\DAL.csproj|solutionrelative:dal\\globalusingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A65F859-EF76-4F46-8D04-9BA76A594B3A}|CoHousing\\WebApi.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\cohousing\\globalusingwebapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A65F859-EF76-4F46-8D04-9BA76A594B3A}|CoHousing\\WebApi.csproj|solutionrelative:cohousing\\globalusingwebapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8BA129-EAB9-4CC5-BDDF-B92A7A770554}|DAL\\DAL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\dal\\dalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8BA129-EAB9-4CC5-BDDF-B92A7A770554}|DAL\\DAL.csproj|solutionrelative:dal\\dalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\bl\\blprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|solutionrelative:bl\\blprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\bl\\blapi\\iblproposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|solutionrelative:bl\\blapi\\iblproposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\bl\\blservices\\bltenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|solutionrelative:bl\\blservices\\bltenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A65F859-EF76-4F46-8D04-9BA76A594B3A}|CoHousing\\WebApi.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\cohousing\\controllers\\monthlyexpensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A65F859-EF76-4F46-8D04-9BA76A594B3A}|CoHousing\\WebApi.csproj|solutionrelative:cohousing\\controllers\\monthlyexpensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\bl\\blservices\\blmonthlyexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|solutionrelative:bl\\blservices\\blmonthlyexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\bl\\blservices\\blonetimeexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|solutionrelative:bl\\blservices\\blonetimeexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8BA129-EAB9-4CC5-BDDF-B92A7A770554}|DAL\\DAL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\dal\\dalservices\\dalmonthlyexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8BA129-EAB9-4CC5-BDDF-B92A7A770554}|DAL\\DAL.csproj|solutionrelative:dal\\dalservices\\dalmonthlyexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\bl\\blmodels\\monthlyexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|solutionrelative:bl\\blmodels\\monthlyexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\bl\\blmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|solutionrelative:bl\\blmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\bl\\blservices\\bltenantforcomitteeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|solutionrelative:bl\\blservices\\bltenantforcomitteeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\bl\\blservices\\blproposalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|solutionrelative:bl\\blservices\\blproposalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\bl\\blapi\\ibltenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|solutionrelative:bl\\blapi\\ibltenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8BA129-EAB9-4CC5-BDDF-B92A7A770554}|DAL\\DAL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\dal\\models\\cohousingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8BA129-EAB9-4CC5-BDDF-B92A7A770554}|DAL\\DAL.csproj|solutionrelative:dal\\models\\cohousingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\bl\\blmodels\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|solutionrelative:bl\\blmodels\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8BA129-EAB9-4CC5-BDDF-B92A7A770554}|DAL\\DAL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\dal\\models\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8BA129-EAB9-4CC5-BDDF-B92A7A770554}|DAL\\DAL.csproj|solutionrelative:dal\\models\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|solutionrelative:bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8BA129-EAB9-4CC5-BDDF-B92A7A770554}|DAL\\DAL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\dal\\models\\proposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8BA129-EAB9-4CC5-BDDF-B92A7A770554}|DAL\\DAL.csproj|solutionrelative:dal\\models\\proposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8BA129-EAB9-4CC5-BDDF-B92A7A770554}|DAL\\DAL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\dal\\models\\onetimeexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8BA129-EAB9-4CC5-BDDF-B92A7A770554}|DAL\\DAL.csproj|solutionrelative:dal\\models\\onetimeexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8BA129-EAB9-4CC5-BDDF-B92A7A770554}|DAL\\DAL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\dal\\models\\monthlyexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8BA129-EAB9-4CC5-BDDF-B92A7A770554}|DAL\\DAL.csproj|solutionrelative:dal\\models\\monthlyexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8BA129-EAB9-4CC5-BDDF-B92A7A770554}|DAL\\DAL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\dal\\models\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8BA129-EAB9-4CC5-BDDF-B92A7A770554}|DAL\\DAL.csproj|solutionrelative:dal\\models\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A65F859-EF76-4F46-8D04-9BA76A594B3A}|CoHousing\\WebApi.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\cohousing\\controllers\\tenantforcomitteecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A65F859-EF76-4F46-8D04-9BA76A594B3A}|CoHousing\\WebApi.csproj|solutionrelative:cohousing\\controllers\\tenantforcomitteecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A65F859-EF76-4F46-8D04-9BA76A594B3A}|CoHousing\\WebApi.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\cohousing\\controllers\\proposalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A65F859-EF76-4F46-8D04-9BA76A594B3A}|CoHousing\\WebApi.csproj|solutionrelative:cohousing\\controllers\\proposalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A65F859-EF76-4F46-8D04-9BA76A594B3A}|CoHousing\\WebApi.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\cohousing\\controllers\\onetimeexpensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A65F859-EF76-4F46-8D04-9BA76A594B3A}|CoHousing\\WebApi.csproj|solutionrelative:cohousing\\controllers\\onetimeexpensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A65F859-EF76-4F46-8D04-9BA76A594B3A}|CoHousing\\WebApi.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\cohousing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A65F859-EF76-4F46-8D04-9BA76A594B3A}|CoHousing\\WebApi.csproj|solutionrelative:cohousing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\bl\\blapi\\ibltenantforcomittee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|solutionrelative:bl\\blapi\\ibltenantforcomittee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\bl\\blapi\\iblonetimeexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|solutionrelative:bl\\blapi\\iblonetimeexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\bl\\blapi\\iblmonthlyexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|solutionrelative:bl\\blapi\\iblmonthlyexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\bl\\blmodels\\proposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|solutionrelative:bl\\blmodels\\proposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\bl\\blmodels\\onetimeexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|solutionrelative:bl\\blmodels\\onetimeexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\bl\\blmodels\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48492A1-B713-4860-885A-B85D751C04F9}|BL\\BL.csproj|solutionrelative:bl\\blmodels\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A65F859-EF76-4F46-8D04-9BA76A594B3A}|CoHousing\\CoHousing.csproj|C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\cohousing\\controllers\\monthlyexpensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A65F859-EF76-4F46-8D04-9BA76A594B3A}|CoHousing\\CoHousing.csproj|solutionrelative:cohousing\\controllers\\monthlyexpensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E0\u05DB\u05D5\u05DF \u05DC\u05D9\u05D5\u05DD \u05E8\u05D0\u05E9\u05D5\u05DF \u05D1\u05E6\u05D4\u05E8\u05D9\u05D9\u05DD\\cohousing\\cohousing\\blmodels\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalUsingDal.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\DAL\\GlobalUsingDal.cs",
+              "RelativeDocumentMoniker": "DAL\\GlobalUsingDal.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\DAL\\GlobalUsingDal.cs",
+              "RelativeToolTip": "DAL\\GlobalUsingDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlProfile.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlProfile.cs",
+              "RelativeDocumentMoniker": "BL\\BlProfile.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlProfile.cs",
+              "RelativeToolTip": "BL\\BlProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DalMonthlyExpenseService.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\DAL\\DalServices\\DalMonthlyExpenseService.cs",
+              "RelativeDocumentMoniker": "DAL\\DalServices\\DalMonthlyExpenseService.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\DAL\\DalServices\\DalMonthlyExpenseService.cs",
+              "RelativeToolTip": "DAL\\DalServices\\DalMonthlyExpenseService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DalManager.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\DAL\\DalManager.cs",
+              "RelativeDocumentMoniker": "DAL\\DalManager.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\DAL\\DalManager.cs",
+              "RelativeToolTip": "DAL\\DalManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalUsingWebApi.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\CoHousing\\GlobalUsingWebApi.cs",
+              "RelativeDocumentMoniker": "CoHousing\\GlobalUsingWebApi.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\CoHousing\\GlobalUsingWebApi.cs",
+              "RelativeToolTip": "CoHousing\\GlobalUsingWebApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalUsingBl.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\GlobalUsingBl.cs",
+              "RelativeDocumentMoniker": "BL\\GlobalUsingBl.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\GlobalUsingBl.cs",
+              "RelativeToolTip": "BL\\GlobalUsingBl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TenantController.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\CoHousing\\Controllers\\TenantController.cs",
+              "RelativeDocumentMoniker": "CoHousing\\Controllers\\TenantController.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\CoHousing\\Controllers\\TenantController.cs",
+              "RelativeToolTip": "CoHousing\\Controllers\\TenantController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MonthlyExpenseController.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\CoHousing\\Controllers\\MonthlyExpenseController.cs",
+              "RelativeDocumentMoniker": "CoHousing\\Controllers\\MonthlyExpenseController.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\CoHousing\\Controllers\\MonthlyExpenseController.cs",
+              "RelativeToolTip": "CoHousing\\Controllers\\MonthlyExpenseController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BlOneTimeExpenseService.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlServices\\BlOneTimeExpenseService.cs",
+              "RelativeDocumentMoniker": "BL\\BlServices\\BlOneTimeExpenseService.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlServices\\BlOneTimeExpenseService.cs",
+              "RelativeToolTip": "BL\\BlServices\\BlOneTimeExpenseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlTenantService.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlServices\\BlTenantService.cs",
+              "RelativeDocumentMoniker": "BL\\BlServices\\BlTenantService.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlServices\\BlTenantService.cs",
+              "RelativeToolTip": "BL\\BlServices\\BlTenantService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BlMonthlyExpenseService.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlServices\\BlMonthlyExpenseService.cs",
+              "RelativeDocumentMoniker": "BL\\BlServices\\BlMonthlyExpenseService.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlServices\\BlMonthlyExpenseService.cs",
+              "RelativeToolTip": "BL\\BlServices\\BlMonthlyExpenseService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBlProposal.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlApi\\IBlProposal.cs",
+              "RelativeDocumentMoniker": "BL\\BlApi\\IBlProposal.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlApi\\IBlProposal.cs",
+              "RelativeToolTip": "BL\\BlApi\\IBlProposal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BlManager.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlManager.cs",
+              "RelativeDocumentMoniker": "BL\\BlManager.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlManager.cs",
+              "RelativeToolTip": "BL\\BlManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA5wA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BlTenantForComitteeService.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlServices\\BlTenantForComitteeService.cs",
+              "RelativeDocumentMoniker": "BL\\BlServices\\BlTenantForComitteeService.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlServices\\BlTenantForComitteeService.cs",
+              "RelativeToolTip": "BL\\BlServices\\BlTenantForComitteeService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBlTenant.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlApi\\IBlTenant.cs",
+              "RelativeDocumentMoniker": "BL\\BlApi\\IBlTenant.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlApi\\IBlTenant.cs",
+              "RelativeToolTip": "BL\\BlApi\\IBlTenant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BlProposalService.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlServices\\BlProposalService.cs",
+              "RelativeDocumentMoniker": "BL\\BlServices\\BlProposalService.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlServices\\BlProposalService.cs",
+              "RelativeToolTip": "BL\\BlServices\\BlProposalService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Tenant.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlModels\\Tenant.cs",
+              "RelativeDocumentMoniker": "BL\\BlModels\\Tenant.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlModels\\Tenant.cs",
+              "RelativeToolTip": "BL\\BlModels\\Tenant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MonthlyExpense.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlModels\\MonthlyExpense.cs",
+              "RelativeDocumentMoniker": "BL\\BlModels\\MonthlyExpense.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlModels\\MonthlyExpense.cs",
+              "RelativeToolTip": "BL\\BlModels\\MonthlyExpense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CoHousingContext.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\DAL\\Models\\CoHousingContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\CoHousingContext.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\DAL\\Models\\CoHousingContext.cs",
+              "RelativeToolTip": "DAL\\Models\\CoHousingContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Tenant.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\DAL\\Models\\Tenant.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Tenant.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\DAL\\Models\\Tenant.cs",
+              "RelativeToolTip": "DAL\\Models\\Tenant.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BL.csproj",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BL.csproj",
+              "RelativeDocumentMoniker": "BL\\BL.csproj",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BL.csproj",
+              "RelativeToolTip": "BL\\BL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-01T18:54:34.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Proposal.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\DAL\\Models\\Proposal.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Proposal.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\DAL\\Models\\Proposal.cs",
+              "RelativeToolTip": "DAL\\Models\\Proposal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MonthlyExpense.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\DAL\\Models\\MonthlyExpense.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\MonthlyExpense.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\DAL\\Models\\MonthlyExpense.cs",
+              "RelativeToolTip": "DAL\\Models\\MonthlyExpense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Building.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\DAL\\Models\\Building.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Building.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\DAL\\Models\\Building.cs",
+              "RelativeToolTip": "DAL\\Models\\Building.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA9wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TenantForComitteeController.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\CoHousing\\Controllers\\TenantForComitteeController.cs",
+              "RelativeDocumentMoniker": "CoHousing\\Controllers\\TenantForComitteeController.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\CoHousing\\Controllers\\TenantForComitteeController.cs",
+              "RelativeToolTip": "CoHousing\\Controllers\\TenantForComitteeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProposalController.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\CoHousing\\Controllers\\ProposalController.cs",
+              "RelativeDocumentMoniker": "CoHousing\\Controllers\\ProposalController.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\CoHousing\\Controllers\\ProposalController.cs",
+              "RelativeToolTip": "CoHousing\\Controllers\\ProposalController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OneTimeExpense.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\DAL\\Models\\OneTimeExpense.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\OneTimeExpense.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\DAL\\Models\\OneTimeExpense.cs",
+              "RelativeToolTip": "DAL\\Models\\OneTimeExpense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OneTimeExpenseController.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\CoHousing\\Controllers\\OneTimeExpenseController.cs",
+              "RelativeDocumentMoniker": "CoHousing\\Controllers\\OneTimeExpenseController.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\CoHousing\\Controllers\\OneTimeExpenseController.cs",
+              "RelativeToolTip": "CoHousing\\Controllers\\OneTimeExpenseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Building.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E0\u05DB\u05D5\u05DF \u05DC\u05D9\u05D5\u05DD \u05E8\u05D0\u05E9\u05D5\u05DF \u05D1\u05E6\u05D4\u05E8\u05D9\u05D9\u05DD\\CoHousing\\CoHousing\\BlModels\\Building.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E0\u05DB\u05D5\u05DF \u05DC\u05D9\u05D5\u05DD \u05E8\u05D0\u05E9\u05D5\u05DF \u05D1\u05E6\u05D4\u05E8\u05D9\u05D9\u05DD\\CoHousing\\CoHousing\\BlModels\\Building.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:48:48.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\CoHousing\\Program.cs",
+              "RelativeDocumentMoniker": "CoHousing\\Program.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\CoHousing\\Program.cs",
+              "RelativeToolTip": "CoHousing\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Proposal.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlModels\\Proposal.cs",
+              "RelativeDocumentMoniker": "BL\\BlModels\\Proposal.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlModels\\Proposal.cs",
+              "RelativeToolTip": "BL\\BlModels\\Proposal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IBlMonthlyExpense.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlApi\\IBlMonthlyExpense.cs",
+              "RelativeDocumentMoniker": "BL\\BlApi\\IBlMonthlyExpense.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlApi\\IBlMonthlyExpense.cs",
+              "RelativeToolTip": "BL\\BlApi\\IBlMonthlyExpense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IBlOneTimeExpense.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlApi\\IBlOneTimeExpense.cs",
+              "RelativeDocumentMoniker": "BL\\BlApi\\IBlOneTimeExpense.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlApi\\IBlOneTimeExpense.cs",
+              "RelativeToolTip": "BL\\BlApi\\IBlOneTimeExpense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IBlTenantForComittee.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlApi\\IBlTenantForComittee.cs",
+              "RelativeDocumentMoniker": "BL\\BlApi\\IBlTenantForComittee.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlApi\\IBlTenantForComittee.cs",
+              "RelativeToolTip": "BL\\BlApi\\IBlTenantForComittee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OneTimeExpense.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlModels\\OneTimeExpense.cs",
+              "RelativeDocumentMoniker": "BL\\BlModels\\OneTimeExpense.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlModels\\OneTimeExpense.cs",
+              "RelativeToolTip": "BL\\BlModels\\OneTimeExpense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Building.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlModels\\Building.cs",
+              "RelativeDocumentMoniker": "BL\\BlModels\\Building.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\BL\\BlModels\\Building.cs",
+              "RelativeToolTip": "BL\\BlModels\\Building.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MonthlyExpenseController.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\CoHousing\\Controllers\\MonthlyExpenseController.cs",
+              "RelativeDocumentMoniker": "CoHousing\\Controllers\\MonthlyExpenseController.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\CoHousing\\Controllers\\MonthlyExpenseController.cs",
+              "RelativeToolTip": "CoHousing\\Controllers\\MonthlyExpenseController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:54:34.442Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
