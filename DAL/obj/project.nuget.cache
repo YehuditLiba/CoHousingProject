@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mo4kVxxSj5V5hJyb/slAHfKELiyBKPOW2A8C4mPQPBDLlS4q+HCEWYFA/H2GM5lp4ieR5XU9bCqQmKvjMdOfEw==",
+  "dgSpecHash": "XtrYrUa6CtYu0POgSFObhLz11cYYUQJGeIskAgbLGbkFgZCmjFGP5Le4nuMax3pvuRWFlDvCeALGzFjkaOty0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\The user\\Desktop\\CoHousingProject-main\\CoHousingProject-main\\CoHousing\\DAL\\DAL.csproj",
+  "projectFilePath": "D:\\פרויקט גמרררר\\CoHousingProject\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\The user\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\The user\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

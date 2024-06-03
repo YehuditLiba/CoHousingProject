@@ -2,6 +2,6 @@
 
 public interface IBlMonthlyExpense
 {
-    public List<MonthlyExpense> GetMonthlyExpenseList(int code);
-    public MonthlyExpense AddMonthlyExpense(MonthlyExpense expense);
+    public List<BlMonthlyExpense> GetMonthlyExpenseList(int code);
+    public BlMonthlyExpense AddMonthlyExpense(BlMonthlyExpense expense);
 }

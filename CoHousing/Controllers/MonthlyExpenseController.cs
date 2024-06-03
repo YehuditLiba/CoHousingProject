@@ -9,8 +9,9 @@ public class MonthlyExpenseController : ControllerBase
     {
         this.MonthlyExpense = blmanager.MonthlyExpense;
     }
+
     [HttpGet("{code}")]
-    public List<MonthlyExpense> GetAll(int code)
+    public List<BlMonthlyExpense> GetAll(int code)
     {
         return MonthlyExpense.GetMonthlyExpenseList(code);
     }

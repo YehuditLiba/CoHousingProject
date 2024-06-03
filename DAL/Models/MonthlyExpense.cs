@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace DAL.Models;
+﻿namespace DAL.Models;
 
 public partial class MonthlyExpense
 {

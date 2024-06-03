@@ -1,11 +1,8 @@
-﻿using AutoMapper;
-using DAL.Models;
+﻿using DAL.Models;
 
 namespace BL.BlServices;
-
 public class BlTenantService : IBlTenant
 {
-    
     ITenant DalTenant;
     IMapper mapper;
     public BlTenantService(DalManager dalManager) 
@@ -15,14 +12,31 @@ public class BlTenantService : IBlTenant
         var config = new MapperConfiguration(cfg => cfg.AddProfile<BlProfile>());
         mapper = config.CreateMapper();
     }
-    public List<BL.BlModels.Tenant> GetAll(int code)
+    public List<BlTenant> GetAll(int code)
     {
-        List<BL.BlModels.Tenant> list = new List<BL.BlModels.Tenant>();
-      
+        List<BlTenant> list = new List<BlTenant>();
         var listFromDal = DalTenant.GetTenantsListByBuildingId(code);
-      
-        listFromDal.ForEach(t => list.Add(mapper.Map<BL.BlModels.Tenant>(t)));
+        listFromDal.ForEach(t => list.Add(mapper.Map<BlTenant>(t)));
         return list;
     }
-
+    public BlTenant GetTenantById(string id)
+    {
+        return mapper.Map<BlTenant>(DalTenant.GetTenantById(id));
+    }
+    public BlTenant AddTenant(BlTenant newTenant)
+    {
+        Tenant tenantToAdd = mapper.Map<Tenant>(newTenant);
+        DalTenant.AddTenant(tenantToAdd);
+        return mapper.Map<BlTenant>(tenantToAdd);
+    }
+    public BlTenant RemoveTenant(string id)
+    {
+        return mapper.Map<BlTenant>(DalTenant.RemoveTenant(id));
+    }
+    public BlTenant UpdateTenant(string id, BlTenant newTenant)
+    {
+        Tenant tenantToUpdate = mapper.Map<Tenant>(newTenant);
+        DalTenant.UpdateTenant(tenantToUpdate, id);
+        return mapper.Map<BlTenant>(tenantToUpdate);
+    }
 }

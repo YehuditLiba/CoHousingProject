@@ -87,3 +87,543 @@ H:\היום יום שישי!\CoHousing\CoHousing\obj\Debug\net7.0\refint\WebApi.
 H:\היום יום שישי!\CoHousing\CoHousing\obj\Debug\net7.0\WebApi.pdb
 H:\היום יום שישי!\CoHousing\CoHousing\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
 H:\היום יום שישי!\CoHousing\CoHousing\obj\Debug\net7.0\ref\WebApi.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+H:\CoHousingProject\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+H:\CoHousingProject\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+H:\CoHousingProject\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+H:\CoHousingProject\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+H:\CoHousingProject\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+H:\CoHousingProject\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+H:\CoHousingProject\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\obj\Debug\net7.0\refint\WebApi.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.pdb
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\appsettings.Development.json
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\appsettings.json
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.exe
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.deps.json
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.runtimeconfig.json
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.pdb
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\AutoMapper.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\Azure.Core.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\Azure.Identity.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.OpenApi.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Memory.Data.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Runtime.Caching.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\BL.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\DAL.dll
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\BL.pdb
+H:\CoHousingProject\CoHousingProject\CoHousing\bin\Debug\net7.0\DAL.pdb
+H:\CoHousingProject\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+H:\CoHousingProject\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+H:\CoHousingProject\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+H:\CoHousingProject\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+H:\CoHousingProject\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets.pack.json
+H:\CoHousingProject\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets.build.json
+H:\CoHousingProject\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets.development.json
+H:\CoHousingProject\CoHousingProject\CoHousing\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+H:\CoHousingProject\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+H:\CoHousingProject\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+H:\CoHousingProject\CoHousingProject\CoHousing\obj\Debug\net7.0\ref\WebApi.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\appsettings.Development.json
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\appsettings.json
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.exe
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.deps.json
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.runtimeconfig.json
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.pdb
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\AutoMapper.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\Azure.Core.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\Azure.Identity.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Memory.Data.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\BL.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\DAL.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\BL.pdb
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\bin\Debug\net7.0\DAL.pdb
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets.pack.json
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets.build.json
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets.development.json
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\obj\Debug\net7.0\refint\WebApi.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.pdb
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+D:\CoHousingProjectמעודכן\CoHousingProject\CoHousing\obj\Debug\net7.0\ref\WebApi.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\appsettings.json
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.exe
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.deps.json
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.runtimeconfig.json
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.pdb
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\BL.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\DAL.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\BL.pdb
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\bin\Debug\net7.0\DAL.pdb
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\obj\Debug\net7.0\refint\WebApi.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.pdb
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\CoHousing\obj\Debug\net7.0\ref\WebApi.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\appsettings.Development.json
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\appsettings.json
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.exe
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.deps.json
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.runtimeconfig.json
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.pdb
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\AutoMapper.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Azure.Core.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Azure.Identity.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.OpenApi.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Memory.Data.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Runtime.Caching.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\BL.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\DAL.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\BL.pdb
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\DAL.pdb
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets.pack.json
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets.build.json
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets.development.json
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\refint\WebApi.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.pdb
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+H:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\ref\WebApi.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\appsettings.Development.json
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\appsettings.json
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.exe
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.deps.json
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.runtimeconfig.json
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.pdb
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\AutoMapper.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Azure.Core.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Azure.Identity.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Memory.Data.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\BL.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\DAL.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\BL.pdb
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\bin\Debug\net7.0\DAL.pdb
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets.pack.json
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets.build.json
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets.development.json
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\refint\WebApi.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.pdb
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+D:\פרויקט גמר CoHousing\CoHousingProject\CoHousing\obj\Debug\net7.0\ref\WebApi.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\refint\WebApi.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.pdb
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\appsettings.Development.json
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\appsettings.json
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.exe
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.deps.json
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.runtimeconfig.json
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.pdb
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\AutoMapper.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Azure.Core.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Azure.Identity.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.OpenApi.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Memory.Data.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Runtime.Caching.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\BL.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\DAL.dll
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\BL.pdb
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\DAL.pdb
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets.pack.json
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets.build.json
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets.development.json
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+H:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\ref\WebApi.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\appsettings.Development.json
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\appsettings.json
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.exe
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.deps.json
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.runtimeconfig.json
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\WebApi.pdb
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\AutoMapper.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Azure.Core.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Azure.Identity.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Memory.Data.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\BL.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\DAL.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\BL.pdb
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\bin\Debug\net7.0\DAL.pdb
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.sourcelink.json
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets.build.json
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets.development.json
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\staticwebassets.pack.json
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.csproj.Up2Date
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\refint\WebApi.dll
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.pdb
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+D:\פרויקט גמרררר\CoHousingProject\CoHousing\obj\Debug\net7.0\ref\WebApi.dll

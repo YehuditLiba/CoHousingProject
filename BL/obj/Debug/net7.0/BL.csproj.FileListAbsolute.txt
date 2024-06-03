@@ -97,3 +97,109 @@ H:\היום יום שישי!\CoHousing\BL\bin\Debug\net7.0\DAL.pdb
 H:\היום יום שישי!\CoHousing\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
 H:\היום יום שישי!\CoHousing\BL\obj\Debug\net7.0\BL.genruntimeconfig.cache
 H:\היום יום שישי!\CoHousing\BL\obj\Debug\net7.0\ref\BL.dll
+H:\CoHousingProject\CoHousingProject\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+H:\CoHousingProject\CoHousingProject\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+H:\CoHousingProject\CoHousingProject\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+H:\CoHousingProject\CoHousingProject\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+H:\CoHousingProject\CoHousingProject\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+H:\CoHousingProject\CoHousingProject\BL\obj\Debug\net7.0\BL.dll
+H:\CoHousingProject\CoHousingProject\BL\obj\Debug\net7.0\refint\BL.dll
+H:\CoHousingProject\CoHousingProject\BL\obj\Debug\net7.0\BL.pdb
+H:\CoHousingProject\CoHousingProject\BL\bin\Debug\net7.0\BL.deps.json
+H:\CoHousingProject\CoHousingProject\BL\bin\Debug\net7.0\BL.dll
+H:\CoHousingProject\CoHousingProject\BL\bin\Debug\net7.0\BL.pdb
+H:\CoHousingProject\CoHousingProject\BL\bin\Debug\net7.0\DAL.dll
+H:\CoHousingProject\CoHousingProject\BL\bin\Debug\net7.0\DAL.pdb
+H:\CoHousingProject\CoHousingProject\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+H:\CoHousingProject\CoHousingProject\BL\obj\Debug\net7.0\ref\BL.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\BL\bin\Debug\net7.0\BL.deps.json
+D:\CoHousingProjectמעודכן\CoHousingProject\BL\bin\Debug\net7.0\BL.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\BL\bin\Debug\net7.0\BL.pdb
+D:\CoHousingProjectמעודכן\CoHousingProject\BL\bin\Debug\net7.0\DAL.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\BL\bin\Debug\net7.0\DAL.pdb
+D:\CoHousingProjectמעודכן\CoHousingProject\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+D:\CoHousingProjectמעודכן\CoHousingProject\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CoHousingProjectמעודכן\CoHousingProject\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+D:\CoHousingProjectמעודכן\CoHousingProject\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+D:\CoHousingProjectמעודכן\CoHousingProject\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+D:\CoHousingProjectמעודכן\CoHousingProject\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+D:\CoHousingProjectמעודכן\CoHousingProject\BL\obj\Debug\net7.0\BL.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\BL\obj\Debug\net7.0\refint\BL.dll
+D:\CoHousingProjectמעודכן\CoHousingProject\BL\obj\Debug\net7.0\BL.pdb
+D:\CoHousingProjectמעודכן\CoHousingProject\BL\obj\Debug\net7.0\ref\BL.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\BL\bin\Debug\net7.0\BL.deps.json
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\BL\bin\Debug\net7.0\BL.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\BL\bin\Debug\net7.0\BL.pdb
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\BL\obj\Debug\net7.0\BL.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\BL\obj\Debug\net7.0\refint\BL.dll
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\BL\obj\Debug\net7.0\BL.pdb
+C:\Users\מרגלית שני\Desktop\פרויקט לעבוד יום רביעי\CoHousingProject\BL\obj\Debug\net7.0\ref\BL.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\BL\bin\Debug\net7.0\BL.deps.json
+H:\פרויקט גמר CoHousing\CoHousingProject\BL\bin\Debug\net7.0\BL.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\BL\bin\Debug\net7.0\BL.pdb
+H:\פרויקט גמר CoHousing\CoHousingProject\BL\bin\Debug\net7.0\DAL.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\BL\bin\Debug\net7.0\DAL.pdb
+H:\פרויקט גמר CoHousing\CoHousingProject\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+H:\פרויקט גמר CoHousing\CoHousingProject\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקט גמר CoHousing\CoHousingProject\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+H:\פרויקט גמר CoHousing\CoHousingProject\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+H:\פרויקט גמר CoHousing\CoHousingProject\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+H:\פרויקט גמר CoHousing\CoHousingProject\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+H:\פרויקט גמר CoHousing\CoHousingProject\BL\obj\Debug\net7.0\BL.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\BL\obj\Debug\net7.0\refint\BL.dll
+H:\פרויקט גמר CoHousing\CoHousingProject\BL\obj\Debug\net7.0\BL.pdb
+H:\פרויקט גמר CoHousing\CoHousingProject\BL\obj\Debug\net7.0\ref\BL.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\BL\bin\Debug\net7.0\BL.deps.json
+D:\פרויקט גמר CoHousing\CoHousingProject\BL\bin\Debug\net7.0\BL.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\BL\bin\Debug\net7.0\BL.pdb
+D:\פרויקט גמר CoHousing\CoHousingProject\BL\bin\Debug\net7.0\DAL.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\BL\bin\Debug\net7.0\DAL.pdb
+D:\פרויקט גמר CoHousing\CoHousingProject\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+D:\פרויקט גמר CoHousing\CoHousingProject\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט גמר CoHousing\CoHousingProject\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+D:\פרויקט גמר CoHousing\CoHousingProject\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+D:\פרויקט גמר CoHousing\CoHousingProject\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+D:\פרויקט גמר CoHousing\CoHousingProject\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+D:\פרויקט גמר CoHousing\CoHousingProject\BL\obj\Debug\net7.0\BL.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\BL\obj\Debug\net7.0\refint\BL.dll
+D:\פרויקט גמר CoHousing\CoHousingProject\BL\obj\Debug\net7.0\BL.pdb
+D:\פרויקט גמר CoHousing\CoHousingProject\BL\obj\Debug\net7.0\ref\BL.dll
+H:\פרויקט גמרררר\CoHousingProject\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+H:\פרויקט גמרררר\CoHousingProject\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקט גמרררר\CoHousingProject\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+H:\פרויקט גמרררר\CoHousingProject\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+H:\פרויקט גמרררר\CoHousingProject\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+H:\פרויקט גמרררר\CoHousingProject\BL\obj\Debug\net7.0\BL.dll
+H:\פרויקט גמרררר\CoHousingProject\BL\obj\Debug\net7.0\refint\BL.dll
+H:\פרויקט גמרררר\CoHousingProject\BL\obj\Debug\net7.0\BL.pdb
+H:\פרויקט גמרררר\CoHousingProject\BL\bin\Debug\net7.0\BL.deps.json
+H:\פרויקט גמרררר\CoHousingProject\BL\bin\Debug\net7.0\BL.dll
+H:\פרויקט גמרררר\CoHousingProject\BL\bin\Debug\net7.0\BL.pdb
+H:\פרויקט גמרררר\CoHousingProject\BL\bin\Debug\net7.0\DAL.dll
+H:\פרויקט גמרררר\CoHousingProject\BL\bin\Debug\net7.0\DAL.pdb
+H:\פרויקט גמרררר\CoHousingProject\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+H:\פרויקט גמרררר\CoHousingProject\BL\obj\Debug\net7.0\ref\BL.dll
+D:\פרויקט גמרררר\CoHousingProject\BL\bin\Debug\net7.0\BL.deps.json
+D:\פרויקט גמרררר\CoHousingProject\BL\bin\Debug\net7.0\BL.dll
+D:\פרויקט גמרררר\CoHousingProject\BL\bin\Debug\net7.0\BL.pdb
+D:\פרויקט גמרררר\CoHousingProject\BL\bin\Debug\net7.0\DAL.dll
+D:\פרויקט גמרררר\CoHousingProject\BL\bin\Debug\net7.0\DAL.pdb
+D:\פרויקט גמרררר\CoHousingProject\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+D:\פרויקט גמרררר\CoHousingProject\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט גמרררר\CoHousingProject\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+D:\פרויקט גמרררר\CoHousingProject\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+D:\פרויקט גמרררר\CoHousingProject\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+D:\פרויקט גמרררר\CoHousingProject\BL\obj\Debug\net7.0\BL.sourcelink.json
+D:\פרויקט גמרררר\CoHousingProject\BL\obj\Debug\net7.0\BL.csproj.Up2Date
+D:\פרויקט גמרררר\CoHousingProject\BL\obj\Debug\net7.0\BL.dll
+D:\פרויקט גמרררר\CoHousingProject\BL\obj\Debug\net7.0\refint\BL.dll
+D:\פרויקט גמרררר\CoHousingProject\BL\obj\Debug\net7.0\BL.pdb
+D:\פרויקט גמרררר\CoHousingProject\BL\obj\Debug\net7.0\ref\BL.dll

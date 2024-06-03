@@ -40,6 +40,7 @@ namespace DAL.DalServices
         }
         public Proposal AddProposal(Proposal proposal)
         {
+
             _CoHousingData.Proposals.Add(proposal);
             _CoHousingData.SaveChanges();
             return proposal;
