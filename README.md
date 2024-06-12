@@ -14,6 +14,6 @@ enabling everyone to understand their work and contribute to the project.
 Join us and experience the revolutionary change in housing management👍🏻
 
 
-![CoHousing's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoHousingProject
-=true&title_color=ff66b2&text_color=66b2ff&icon_color=ff66b2&border_color=66b2ff&bg_color=000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=4.0&include_all_commits=true&count_private=true)
+![CoHousingProject's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoHousingProject
+&show_icons=true&title_color=ff66b2&text_color=66b2ff&icon_color=ff66b2&border_color=66b2ff&bg_color=000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=4.0&include_all_commits=true&count_private=true)
 
