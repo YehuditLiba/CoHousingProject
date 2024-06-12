@@ -10,10 +10,18 @@ public class TenantController : ControllerBase
         this.BLtenant = blManager.Tenant;
     }
 
-    [HttpGet("{buildingCode}")]//get list of all neighbors by building Code.
+    [HttpGet("BuildingCode/{buildingCode}")]//get list of all neighbors by building Code.
     public List<BlTenant> GetAll(int buildingCode)
     {
         return BLtenant.GetAll(buildingCode);
+    }
+
+    [HttpPost("login")]
+    public BlTenant GetByEmail([FromBody] LoginRequest loginRequest)
+    {
+        Console.WriteLine("go to the func...");
+
+        return BLtenant.GetByEmail(loginRequest.email, loginRequest.password);
     }
 
     [HttpGet("TenantId/{id}")]//Get Tenant By Id.
@@ -38,4 +46,10 @@ public class TenantController : ControllerBase
     { 
         return BLtenant.UpdateTenant(id, newTenant);
     }
+}
+
+public class LoginRequest
+{
+    public string email { get; set; }
+    public string password { get; set; }
 }

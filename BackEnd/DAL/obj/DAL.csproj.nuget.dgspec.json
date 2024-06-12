@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\פרויקט גמרררר\\CoHousingProject\\DAL\\DAL.csproj": {}
+    "C:\\Users\\User\\Desktop\\פרויקט לעבודה יום שני\\BackEnd\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "D:\\פרויקט גמרררר\\CoHousingProject\\DAL\\DAL.csproj": {
+    "C:\\Users\\User\\Desktop\\פרויקט לעבודה יום שני\\BackEnd\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\פרויקט גמרררר\\CoHousingProject\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\פרויקט לעבודה יום שני\\BackEnd\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "D:\\פרויקט גמרררר\\CoHousingProject\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\The user\\.nuget\\packages\\",
-        "outputPath": "D:\\פרויקט גמרררר\\CoHousingProject\\DAL\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\פרויקט לעבודה יום שני\\BackEnd\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\פרויקט לעבודה יום שני\\BackEnd\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\The user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -91,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

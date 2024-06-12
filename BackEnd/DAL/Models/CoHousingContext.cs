@@ -22,7 +22,7 @@ public partial class CoHousingContext : DbContext
     public virtual DbSet<Tenant> Tenants { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseSqlServer("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"D:\\פרויקט גמרררר\\Data\\CoHousingData.mdf\";Integrated Security=True;Connect Timeout=30;TrustServerCertificate=True");
+        => optionsBuilder.UseSqlServer("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"C:\\Users\\User\\Desktop\\פרויקט לעבודה יום שני\\Data\\CoHousingData.mdf\";Integrated Security=True;Connect Timeout=30;TrustServerCertificate=True");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

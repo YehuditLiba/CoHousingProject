@@ -2,5 +2,5 @@
 
 public interface IBlTenantForComittee
 {
-    public List<Tenant> GetAll(int code);
+    public List<BlTenant> GetAll(int code);
 }

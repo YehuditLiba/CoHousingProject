@@ -9,10 +9,10 @@ public class BlTenantForComitteeService : IBlTenantForComittee
         this.DalTenant = dalManager.Tenant;
     }
 
-    public List<Tenant> GetAll(int code)
+    public List<BlTenant> GetAll(int code)
     {
         var listFromDal = DalTenant.GetTenantsListByBuildingId(code);
-        List<Tenant> list=null;// = mapper.map<List<Tenant>>(listFromDal);
+        List<BlTenant> list=null;// = mapper.map<List<Tenant>>(listFromDal);
 
         //foreach (var t in listFromDal)
         //{

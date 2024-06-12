@@ -25,6 +25,15 @@ namespace DAL.DalServices
             }
             return list;
         }
+        public Tenant GetTenantByEmail(string email, string password)
+        {
+            var tenant = _CoHousingData.Tenants.FirstOrDefault(t => t.EmailAddress == email && t.Password == password);
+            if (tenant == null)
+                return null;
+            return tenant;
+        }
+
+
         public Tenant GetTenantById(string id)
         {
             var tenant = _CoHousingData.Tenants.FirstOrDefault(t => t.TenantId == id);

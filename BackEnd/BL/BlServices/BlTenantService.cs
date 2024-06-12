@@ -19,6 +19,10 @@ public class BlTenantService : IBlTenant
         listFromDal.ForEach(t => list.Add(mapper.Map<BlTenant>(t)));
         return list;
     }
+    public BlTenant GetByEmail(string email, string password)
+    {
+        return mapper.Map<BlTenant>(DalTenant.GetTenantByEmail(email,password));
+    }
     public BlTenant GetTenantById(string id)
     {
         return mapper.Map<BlTenant>(DalTenant.GetTenantById(id));
