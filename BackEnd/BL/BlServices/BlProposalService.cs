@@ -46,7 +46,7 @@ public class BlProposalService : IBlProposal
     public void TellTheNeighbors(BlProposal newProposal)
     {
         List<BlTenant> neighbors = new List<BlTenant>();
-        neighbors = IBlTenant.GetAll(newProposal.Tenant.BuildingCode);
+        neighbors = IBlTenant.GetTenantsByBuildingCode(newProposal.Tenant.BuildingCode);
         foreach (BlTenant neighbor in neighbors)
         {
             //send a massage that there is new proposal//

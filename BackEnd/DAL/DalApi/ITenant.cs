@@ -6,6 +6,7 @@ namespace DAL.DalApi;
 
 public interface ITenant
 {
+    public List<Tenant> GetAllTenants();
     public List<Tenant> GetTenantsListByBuildingId(int code);
     public Tenant GetTenantById(string id);
     public Tenant GetTenantByEmail(string email, string password);

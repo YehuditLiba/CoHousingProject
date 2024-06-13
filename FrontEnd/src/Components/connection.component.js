@@ -1,12 +1,16 @@
-// import React, { useState } from "react";
+// import React, { useState, useEffect } from "react";
+// import { useNavigate } from "react-router-dom";
 // import PersonalArea from "./personalArea.component.js";
 
 // const ConnectionComponent = () => {
+//     const navigate = useNavigate();
+
 //     const [email, setEmail] = useState('');
 //     const [password, setPassword] = useState('');
 //     const [isLoading, setIsLoading] = useState(false);
 //     const [error, setError] = useState(null);
-//     const [personalArea, setPersonalArea] = useState(null);
+//     const [isLoggedIn, setIsLoggedIn] = useState(false); 
+//     const [personalInfo, setPersonalInfo] = useState(null); 
 
 //     const handleEmailChange = (event) => {
 //         setEmail(event.target.value);
@@ -40,8 +44,15 @@
 //             }
 
 //             const data = await response.json();
-//             console.log(data); // Handle the response data as needed
-//             setPersonalArea(data.PersonalAreaComponent); // Assuming the response contains personal information
+//             const personalAreaData = {
+//                 email: data.email,
+//                 name: data.name,
+//                 age: data.age
+//             };
+
+//             // Set personalInfo state
+//             setPersonalInfo(personalAreaData);
+//             setIsLoggedIn(true);
 //         } catch (error) {
 //             console.error("Error fetching data:", error);
 //             setError(`Failed to fetch data: ${error.message}`);
@@ -49,6 +60,13 @@
 //             setIsLoading(false);
 //         }
 //     };
+
+//     // useEffect for navigation to PersonalArea after successful login
+//     useEffect(() => {
+//         if (isLoggedIn && personalInfo) {
+//             navigate("/personal-area", { state: { personalArea: personalInfo } });
+//         }
+//     }, [isLoggedIn, personalInfo, navigate]);
 
 //     return (
 //         <div>
@@ -66,23 +84,28 @@
 //             </form>
 //             {isLoading && <p>Loading...</p>}
 //             {error && <p>{error}</p>}
-//             {personalArea && <PersonalArea personalArea={personalArea} />}
+//             {/* Display PersonalArea component only if user is logged in */}
+//             {isLoggedIn && personalInfo && <PersonalArea personalInfo={personalInfo} />}
 //         </div>
 //     );
 // };
 
 // export default ConnectionComponent;
 
-import React, { useState } from "react";
+
+import React, { useState, useEffect } from "react";
+import { useNavigate } from "react-router-dom";
 import PersonalArea from "./personalArea.component.js";
 
 const ConnectionComponent = () => {
+    const navigate = useNavigate();
+
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
     const [isLoading, setIsLoading] = useState(false);
     const [error, setError] = useState(null);
-    const [isLoggedIn, setIsLoggedIn] = useState(false); // משתנה חדש לצורך הבדיקה האם המשתמש מחובר
-    const [personalInfo, setPersonalInfo] = useState(null); // משתנה לשמירת מידע אישי
+    const [isLoggedIn, setIsLoggedIn] = useState(false); 
+    const [personalInfo, setPersonalInfo] = useState(null); 
 
     const handleEmailChange = (event) => {
         setEmail(event.target.value);
@@ -116,9 +139,15 @@ const ConnectionComponent = () => {
             }
 
             const data = await response.json();
-            console.log(data); // Handle the response data as needed
-            setPersonalInfo(data.PersonalAreaComponent); // Assuming the response contains personal information
-            setIsLoggedIn(true); // הגדרת המשתנה isLoggedIn ל true לאחר ההצלחה בהתחברות
+            const personalAreaData = {
+                email: data.email,
+                name: data.name,
+                age: data.age
+            };
+
+            // Set personalInfo state
+            setPersonalInfo(personalAreaData);
+            setIsLoggedIn(true);
         } catch (error) {
             console.error("Error fetching data:", error);
             setError(`Failed to fetch data: ${error.message}`);
@@ -126,6 +155,13 @@ const ConnectionComponent = () => {
             setIsLoading(false);
         }
     };
+
+    // useEffect for navigation to PersonalArea after successful login
+    useEffect(() => {
+        if (isLoggedIn && personalInfo) {
+            navigate("/personal-area", { state: { personalArea: personalInfo } });
+        }
+    }, [isLoggedIn, personalInfo, navigate]);
 
     return (
         <div>
@@ -143,7 +179,7 @@ const ConnectionComponent = () => {
             </form>
             {isLoading && <p>Loading...</p>}
             {error && <p>{error}</p>}
-            {/* הצגת הקומפוננטה רק אם המשתנה isLoggedIn הוא true */}
+            {/* Display PersonalArea component only if user is logged in */}
             {isLoggedIn && personalInfo && <PersonalArea personalInfo={personalInfo} />}
         </div>
     );

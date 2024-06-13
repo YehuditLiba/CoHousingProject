@@ -15,7 +15,12 @@ namespace DAL.DalServices
         {
             _CoHousingData= coHousingData;
         }
-        public List<Models.Tenant> GetTenantsListByBuildingId(int code)
+
+        public List<Tenant> GetAllTenants()
+        {
+            return _CoHousingData.Tenants.ToList();
+        }
+        public List<Tenant> GetTenantsListByBuildingId(int code)
         {
             List<Tenant> list = new List<Tenant>();
             foreach(var t in _CoHousingData.Tenants)
@@ -32,8 +37,6 @@ namespace DAL.DalServices
                 return null;
             return tenant;
         }
-
-
         public Tenant GetTenantById(string id)
         {
             var tenant = _CoHousingData.Tenants.FirstOrDefault(t => t.TenantId == id);

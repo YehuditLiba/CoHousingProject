@@ -12,7 +12,14 @@ public class BlTenantService : IBlTenant
         var config = new MapperConfiguration(cfg => cfg.AddProfile<BlProfile>());
         mapper = config.CreateMapper();
     }
-    public List<BlTenant> GetAll(int code)
+    public List<BlTenant> GetAllTenants()
+    {
+        List<BlTenant> list = new List<BlTenant>();
+        var listFromDal = DalTenant.GetAllTenants();
+        listFromDal.ForEach(t => list.Add(mapper.Map<BlTenant>(t)));
+        return list;
+    }
+    public List<BlTenant> GetTenantsByBuildingCode(int code)
     {
         List<BlTenant> list = new List<BlTenant>();
         var listFromDal = DalTenant.GetTenantsListByBuildingId(code);
