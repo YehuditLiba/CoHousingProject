@@ -1,0 +1,181 @@
+nav {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    width: 100%;
+    height: 12vh;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    direction: ltr;
+}
+
+.navItem {
+    margin: 2 10px;
+    margin-top: 10px;
+    position: relative;
+    font-size: 20px;
+    transition: font-size 0.2s ease;
+    display: inline-block; 
+}
+
+.navItem:hover {
+    transform: translateY(-3px);
+    font-size: 20px;
+}
+
+.navItem::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -0.5px; 
+    width: 100%;
+    height: 3px;
+    background-color: white;
+    transform: scaleX(0);
+    transform-origin: bottom right;
+    transition: transform 0.3s ease;
+}
+
+.navItem:hover::after {
+    transform: scaleX(1);
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+img {
+    height: 80px;
+    width: auto;
+    margin-top: -20px;
+}
+
+/* עיצוב סרגל הכלים */
+.nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 80px;
+    background-color: #1AA7EC;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    z-index: 1000; /* כדי להבטיח שהסרגל יהיה מעל כל תוכן אחר */
+  }
+  
+  .navLogo {
+    height: 100%;
+    display: flex;
+    align-items: center;
+  }
+  
+  .navLogo img {
+    height: 60px;
+    width: auto;
+  }
+  
+  .navItemContainer {
+    display: flex;
+    height: 100%;
+  }
+  
+  .navItem {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: 0 20px;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .navItem:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  .navItemActiveContainer {
+    position: relative;
+    height: 100%;
+  }
+  
+  .navItemActive {
+    position: absolute;
+    bottom: 0;
+    height: 4px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    display: none;
+  }
+  
+  .burgerMenu {
+    display: none;
+  }
+  
+  /* עיצוב סרגל הכלים במצב נייד */
+  .mobileNav {
+    display: none;
+  }
+  
+  @media (max-width: 1050px) {
+    .navItemContainer {
+      display: none;
+    }
+  
+    .burgerMenu {
+      display: flex;
+    }
+  
+    .mobileNav {
+      position: fixed;
+      top: 80px;
+      left: 0;
+      width: 100%;
+      background-color: #1AA7EC;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      z-index: 999; /* כדי להבטיח שהמנוע יהיה מעל כל תוכן אחר */
+    }
+  
+    .mobileNavItem {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 80px;
+      width: 100%;
+      font-size: 1.2em;
+      font-weight: bold;
+      color: black;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+  
+    .mobileNavItem:hover {
+      background-color: rgba(255, 255, 255, 0.1);
+    }
+  
+    .mobilenavItemActiveContainer {
+      position: relative;
+      height: 100%;
+    }
+  
+    .mobilenavItemActive {
+      position: absolute;
+      top: 0;
+      height: 4px;
+      width: 100%;
+      background-color: white;
+      display: none;
+    }
+  }
+  

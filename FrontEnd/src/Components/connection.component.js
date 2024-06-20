@@ -1,6 +1,7 @@
 // import React, { useState, useEffect } from "react";
 // import { useNavigate } from "react-router-dom";
 // import PersonalArea from "./personalArea.component.js";
+// import '../Designs/connection.css';
 
 // const ConnectionComponent = () => {
 //     const navigate = useNavigate();
@@ -92,10 +93,10 @@
 
 // export default ConnectionComponent;
 
-
 import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import PersonalArea from "./personalArea.component.js";
+import '../Designs/connection.css'; // ייבוא קובץ ה-CSS
 
 const ConnectionComponent = () => {
     const navigate = useNavigate();
@@ -164,23 +165,35 @@ const ConnectionComponent = () => {
     }, [isLoggedIn, personalInfo, navigate]);
 
     return (
-        <div>
-            <h1>Login Form</h1>
+        <div className="form-container">
             <form onSubmit={handleSubmit}>
-                <div>
+                <h1>Login Form</h1>
+                <div className="form-group">
+                    <input
+                        type="email"
+                        value={email}
+                        onChange={handleEmailChange}
+                        placeholder=" "
+                        required
+                    />
                     <label>Email:</label>
-                    <input type="email" value={email} onChange={handleEmailChange} required />
                 </div>
-                <div>
+                <div className="form-group">
+                    <input
+                        type="password"
+                        value={password}
+                        onChange={handlePasswordChange}
+                        placeholder=" "
+                        required
+                    />
                     <label>Password:</label>
-                    <input type="password" value={password} onChange={handlePasswordChange} required />
                 </div>
                 <button type="submit" disabled={isLoading}>Submit</button>
+                {isLoading && <p>Loading...</p>}
+                {error && <p>{error}</p>}
+                {/* Display PersonalArea component only if user is logged in */}
+                {isLoggedIn && personalInfo && <PersonalArea personalInfo={personalInfo} />}
             </form>
-            {isLoading && <p>Loading...</p>}
-            {error && <p>{error}</p>}
-            {/* Display PersonalArea component only if user is logged in */}
-            {isLoggedIn && personalInfo && <PersonalArea personalInfo={personalInfo} />}
         </div>
     );
 };
