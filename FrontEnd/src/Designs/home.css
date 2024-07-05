@@ -1,0 +1,72 @@
+/* HomeComponent.css */
+
+.home-background {
+    background: url('C:\Users\User\Desktop\פרויקט לעבודה יום שני\CoHousingProject\FrontEnd\public\home_on_hand.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-container {
+    text-align: center;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    margin: 20px auto;
+}
+
+h1 {
+    font-size: 36px;
+    color: #333333;
+    margin-bottom: 40px;
+}
+
+.boxes-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.floating-box {
+    background: #ff4c4c;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    width: 200px;
+    text-align: center;
+}
+
+.floating-box:hover {
+    transform: translateY(-10px);
+}
+
+label {
+    display: block;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+button {
+    background: white;
+    color: #ff4c4c;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.3s ease;
+}
+
+button:hover {
+    background: #e04545;
+    color: white;
+}
