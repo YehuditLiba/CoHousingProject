@@ -1,4 +1,5 @@
-*** Welcome to our spectacular project ***
+**Welcome to our spectacular project!!!**
+
 a communal housing committee management system focusing on optimization and efficient management of shared living spaces🏠
 This project is designed for managing and maintaining communal housing. The application provides a variety of services for building management by the committee, 
 including adding and removing tenants, managing payments, tenant details, and renovation proposals. 
@@ -11,4 +12,4 @@ inputting them into the code structure and documentation, and building the code 
 Each part of the code receives detailed explanations and comprehensive documentation,
 enabling everyone to understand their work and contribute to the project.
 
-Join us and experience the revolutionary change in housing management👍🏻
+**Join us and experience the revolutionary change in housing management👍🏻**
