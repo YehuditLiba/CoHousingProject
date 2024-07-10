@@ -10,6 +10,7 @@
     border: none;
     margin-bottom: 300px;
     cursor: pointer;
+    margin-left: -20px;
 }
 
 .accessibility-options {
@@ -38,7 +39,7 @@
 }
 
 .accessibility-options button:hover {
-    background-color: #ddd;
+    background-color: #dddddd;
 }
 
 .accessImg{

@@ -1,7 +1,6 @@
 // import React, { useState, useEffect } from "react";
 // import { useNavigate } from "react-router-dom";
-// import PersonalArea from "./personalArea.component.js";
-// import '../Designs/connection.css';
+// import '../Designs/connection.css'; // ייבוא קובץ ה-CSS
 
 // const ConnectionComponent = () => {
 //     const navigate = useNavigate();
@@ -45,11 +44,19 @@
 //             }
 
 //             const data = await response.json();
+//             console.log("Data from API:", data);
+
 //             const personalAreaData = {
-//                 email: data.email,
-//                 name: data.name,
-//                 age: data.age
+//                 email: data.emailAddress,
+//                 name: data.fullName,
+//                 apartmentNumber: data.apartmentNumber,
+//                 balance: data.balance,
+//                 phone: data.phoneNumber,
+//                 isCommitee: data.isCommitee,
+//                 proposals: data.proposals
 //             };
+
+//             console.log("Personal Area Data:", personalAreaData);
 
 //             // Set personalInfo state
 //             setPersonalInfo(personalAreaData);
@@ -65,28 +72,39 @@
 //     // useEffect for navigation to PersonalArea after successful login
 //     useEffect(() => {
 //         if (isLoggedIn && personalInfo) {
+//             console.log("Navigating to personal area with:", personalInfo);
 //             navigate("/personal-area", { state: { personalArea: personalInfo } });
 //         }
 //     }, [isLoggedIn, personalInfo, navigate]);
 
 //     return (
-//         <div>
-//             <h1>Login Form</h1>
+//         <div className="form-container">
 //             <form onSubmit={handleSubmit}>
-//                 <div>
+//                 <h1>Login Form</h1>
+//                 <div className="form-group">
+//                     <input
+//                         type="email"
+//                         value={email}
+//                         onChange={handleEmailChange}
+//                         placeholder=" "
+//                         required
+//                     />
 //                     <label>Email:</label>
-//                     <input type="email" value={email} onChange={handleEmailChange} required />
 //                 </div>
-//                 <div>
+//                 <div className="form-group">
+//                     <input
+//                         type="password"
+//                         value={password}
+//                         onChange={handlePasswordChange}
+//                         placeholder=" "
+//                         required
+//                     />
 //                     <label>Password:</label>
-//                     <input type="password" value={password} onChange={handlePasswordChange} required />
 //                 </div>
 //                 <button type="submit" disabled={isLoading}>Submit</button>
+//                 {isLoading && <p>Loading...</p>}
+//                 {error && <p>{error}</p>}
 //             </form>
-//             {isLoading && <p>Loading...</p>}
-//             {error && <p>{error}</p>}
-//             {/* Display PersonalArea component only if user is logged in */}
-//             {isLoggedIn && personalInfo && <PersonalArea personalInfo={personalInfo} />}
 //         </div>
 //     );
 // };
@@ -95,8 +113,7 @@
 
 import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import PersonalArea from "./personalArea.component.js";
-import '../Designs/connection.css'; // ייבוא קובץ ה-CSS
+import '../Designs/connection.css'; 
 
 const ConnectionComponent = () => {
     const navigate = useNavigate();
@@ -116,11 +133,59 @@ const ConnectionComponent = () => {
         setPassword(event.target.value);
     };
 
+    // const handleSubmit = async (event) => {
+    //     event.preventDefault();
+    //     setIsLoading(true);
+    //     setError(null);
+
+    //     try {
+    //         const url = "http://localhost:5013/api/tenant/login";
+    //         const response = await fetch(url, {
+    //             method: 'POST',
+    //             headers: {
+    //                 'Content-Type': 'application/json'
+    //             },
+    //             credentials: 'include',
+    //             body: JSON.stringify({ email, password })
+    //         });
+
+    //         if (!response.ok) {
+    //             const errorText = await response.text();
+    //             console.error(`Network response was not ok: ${response.status} - ${response.statusText}`);
+    //             console.error(`Response Error Text: ${errorText}`);
+    //             throw new Error(`Network response was not ok: ${response.status} - ${response.statusText}`);
+    //         }
+
+    //         const data = await response.json();
+    //         console.log("Data from API:", data); // הדפסה לדיוג
+
+    //         const personalAreaData = {
+    //             email: data.emailAddress,
+    //             name: data.fullName,
+    //             apartmentNumber: data.apartmentNumber,
+    //             balance: data.balance,
+    //             phone: data.phoneNumber,
+    //             isCommitee: data.isCommitee,
+    //             proposals: data.proposals
+    //         };
+
+    //         console.log("Personal Area Data:", personalAreaData); // הדפסה לדיוג
+
+    //         // Set personalInfo state
+    //         setPersonalInfo(personalAreaData);
+    //         setIsLoggedIn(true);
+    //     } catch (error) {
+    //         console.error("Error fetching data:", error);
+    //         setError(`Failed to fetch data: ${error.message}`);
+    //     } finally {
+    //         setIsLoading(false);
+    //     }
+    // };
     const handleSubmit = async (event) => {
         event.preventDefault();
         setIsLoading(true);
         setError(null);
-
+    
         try {
             const url = "http://localhost:5013/api/tenant/login";
             const response = await fetch(url, {
@@ -131,21 +196,29 @@ const ConnectionComponent = () => {
                 credentials: 'include',
                 body: JSON.stringify({ email, password })
             });
-
+    
             if (!response.ok) {
                 const errorText = await response.text();
                 console.error(`Network response was not ok: ${response.status} - ${response.statusText}`);
                 console.error(`Response Error Text: ${errorText}`);
                 throw new Error(`Network response was not ok: ${response.status} - ${response.statusText}`);
             }
-
+    
             const data = await response.json();
+            console.log("Data from API:", data); //הדפסה למעקב אחר הDATA
+    
             const personalAreaData = {
-                email: data.email,
-                name: data.name,
-                age: data.age
+                email: data.emailAddress,
+                name: data.fullName,
+                apartmentNumber: data.apartmentNumber,
+                balance: data.balance,
+                phone: data.phoneNumber,
+                isCommitee: data.isCommitee,
+                proposals: data.proposals
             };
-
+    
+            console.log("Personal Area Data:", personalAreaData); // הדפסה לדיוג
+    
             // Set personalInfo state
             setPersonalInfo(personalAreaData);
             setIsLoggedIn(true);
@@ -156,10 +229,13 @@ const ConnectionComponent = () => {
             setIsLoading(false);
         }
     };
+    
+
 
     // useEffect for navigation to PersonalArea after successful login
     useEffect(() => {
         if (isLoggedIn && personalInfo) {
+            console.log("Navigating to personal area with:", personalInfo);
             navigate("/personal-area", { state: { personalArea: personalInfo } });
         }
     }, [isLoggedIn, personalInfo, navigate]);
@@ -191,8 +267,6 @@ const ConnectionComponent = () => {
                 <button type="submit" disabled={isLoading}>Submit</button>
                 {isLoading && <p>Loading...</p>}
                 {error && <p>{error}</p>}
-                {/* Display PersonalArea component only if user is logged in */}
-                {isLoggedIn && personalInfo && <PersonalArea personalInfo={personalInfo} />}
             </form>
         </div>
     );

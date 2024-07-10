@@ -5,7 +5,7 @@ import Home from './Components/home.component';
 import Register from './Components/register.component';
 import Navbar from './Components/navbar.component';
 import About from './Components/about.component';
-import FAQ from './Components/faq.component';
+import FAQ from './Components/FAQ.component';
 import Contact from './Components/contact.component';
 import AccessibilityMenu from './Components/accessibilityMenu';
 

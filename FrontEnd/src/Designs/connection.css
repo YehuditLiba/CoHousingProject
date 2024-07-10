@@ -72,7 +72,7 @@ button[type="submit"]:disabled {
 }
 
 button[type="submit"]:hover:enabled {
-    background-color: #d43b2e;
+    background-color: #372827;
 }
 
 p {
